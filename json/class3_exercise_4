@@ -1,0 +1,27 @@
+{
+  "questions of ChatGPT": [
+    {
+      "topic": "Python",
+      "question": "What is a decorator in Python?",
+      "answer": "A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure."
+    },
+    {
+      "topic": "JavaScript",
+      "question": "What is a closure in JavaScript?",
+      "answer": "A closure is a feature in JavaScript that allows a function to access variables in its parent scope, even after the parent function has returned."
+    },
+    {
+      "topic": "Java",
+      "question": "What is the difference between an interface and an abstract class in Java?",
+      "answer": "An interface is a collection of abstract methods that can be implemented by any class, whereas an abstract class is a class that cannot be instantiated and can contain both abstract and concrete methods."
+    },
+    {
+      "topic": "C++",
+      "question": "What is the difference between a pointer and a reference in C++?",
+      "answer": "A pointer is a variable that stores the memory address of another variable, whereas a reference is an alias for another variable."
+    }
+  ],
+  
+  "Give other questions but random": {
+}
+}
