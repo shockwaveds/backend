@@ -1,0 +1,10 @@
+public class game {
+
+    public static void main(String[] args) {
+
+        int n = (int) (Math.random() * 100);
+
+        System.out.println("The number is: " + n);
+    }
+
+}
