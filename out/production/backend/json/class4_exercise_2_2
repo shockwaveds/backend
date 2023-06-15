@@ -1,0 +1,7 @@
+{
+  "category": "Comida",
+  "question": "¿Qué ingredientes se necesitan para hacer una ensalada de papas?",
+  "options": ["Papas, sal, mayonesa, zanahoria, remolacha, cebolla", "Papas, Zanahoria", "Mayonesa, Sal, Remolacha"],
+  "answer": 0,
+  "explanation": "La ensalada de papas es una ensalada basica pero delicada al hacerla, es recomendable para festividades, almuerzos o cenas, es facil de hacer con pocas ingredientes"
+}

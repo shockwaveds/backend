@@ -1,0 +1,74 @@
+{
+  "Game of: Do you do UFO's ?": {
+    "What's the State of The Area51": [
+      {
+        "1": "Florida",
+        "2": "Utah",
+        "3": "Nevada",
+        "4": "New Mexico",
+        "5": "Arizona"
+      },
+      {
+        "Answer": 3,
+        "Nevada": "Area 51 is the common name of a highly classified United States Air Force"
+      }
+    ],
+    "What's is the State of Los Alamos": [
+      {
+        "1": "Utah",
+        "2": "New Mexico",
+        "3": "Texas",
+        "4": "Montana",
+        "5": "Arkansas"
+      },
+      {
+        "Answer": 2,
+        "New Mexico": "is a census-designated place in Los Alamos County, New Mexico, United States, that is recognized as the development and creation place of the atomic bomb"
+
+      }
+    ],
+    "What's is the name of Cientific that speak of The Area51": [
+      {
+        "1": "Dr Green",
+        "2": "Art Bell",
+        "3": "George Nap",
+        "4": "Bob Lazar",
+        "5": "Dennis Marianis"
+      },
+      {
+        "Answer": 4,
+        "Bob Lazar": " is an American conspiracy theorist and self-proclaimed physicist who claims he was hired in the late 1980s to reverse-engineer extraterrestrial technology"
+      }
+    ],
+    "What's the element for that the OVNIS can fly": [
+      {
+        "1": "Uranio",
+        "2": "Oganesson",
+        "3": "Energy Nuclear",
+        "4": "Ununpentium",
+        "5": "Neutrinos"
+      },
+      {
+        "Answer": 4,
+        "Ununpentium": "Element 115 is an enigma of sorts. It was only added to the periodic table in 2016, yet for decades it has attracted extra attention because of a supposed connection to extraterrestrial technology and alien lifeforms"
+      }
+    ],
+    "What's a OVNI": [
+      {
+        "1": "Object in the space",
+        "2": "Object Volador no identificado",
+        "3": "Object sumergible no idendificado",
+        "4": "Object interestelar no identificado",
+        "5": "Object volador identificado"
+      },
+        {
+          "Answer": "2",
+          "OVNI": "Object Volador no identificado"
+        }     
+    ],
+
+     "Thanks for Play ": {
+      "Finish": "Game Over"
+    }
+  }
+}
