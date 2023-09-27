@@ -1,0 +1,14 @@
+[
+  {
+    "category": "Science",
+    "description": "Questions related to all of sciences, chemistry and physics"
+  },
+  {
+    "category": "Sports",
+    "description": "Questions related to events, fans, scores, games, sponsors"
+  },
+  {
+    "category": "Culture",
+    "description": "Questions related to music, language, religion, social habits, food"
+  }
+]
