@@ -1,0 +1,48 @@
+{
+  "Game": "This is the game",
+  "Start the game": [
+    {
+      "Rules": [
+        {
+          "Selection only one answer": [
+            {
+              "The following questions are": [
+                {
+                  "What's the brand of beer of The Champions League?": [
+                    {
+                      "Answer-1": "Old Milwaukee",
+                      "Answer-2": "Miller",
+                      "Answer-3": "Heineken",
+                      "Answer-4": "Warsteiren"
+                    }
+                  ]
+                }
+              ]
+            },
+
+            {
+              "What's the city with more Champions League": {
+
+                "Answers-1": "Lyon",
+                "Answers-2": "Lisboa",
+                "Answers-3": "Madrid",
+                "Answers-4": "Cardiff"
+              },
+
+              "Where's the next final of the Champions League": {
+
+                "Answer-1": "Athenas",
+                "Answer-2": "Berlin",
+                "Answer-3": "Estambul",
+                "Answer-4": "Milan"
+              }
+
+            }
+
+
+          ]
+        }
+      ]
+    }
+  ]
+}
